@@ -1,0 +1,51 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../html"
+		},
+		{
+			"path": "../../Downloads/xampp/htdocs/PHPproject"
+		},
+		{
+			"path": "../DART"
+		},
+		{
+			"path": "../MySQL"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.editor.autoLockGroups": {
+			"default": true
+		},
+		"screencastMode.onlyKeyboardShortcuts": true,
+		"terminal.integrated.allowChords": false,
+		"terminal.integrated.copyOnSelection": true,
+		"git.ignoreSubmodules": true,
+		"python.globalModuleInstallation": true,
+		"npm-intellisense.packageSubfoldersIntellisense": true,
+		"npm-intellisense.showBuildInLibs": true,
+		"files.autoSave": "onFocusChange",
+		"sqltools.connections": [
+			{
+				"mysqlOptions": {
+					"authProtocol": "default"
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 3306,
+				"driver": "MySQL",
+				"name": "ashoka",
+				"username": "root",
+				"group": "mysql",
+				"database": "mysql",
+				"password": ""
+			}
+		]
+	}
+}
