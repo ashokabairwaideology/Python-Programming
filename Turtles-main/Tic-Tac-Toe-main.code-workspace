@@ -1,0 +1,60 @@
+{
+	"folders": [
+		{
+			"path": "../../../Tic-Tac-Toe-main"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"code-runner.runInTerminal": true,
+		"python.terminal.launchArgs": [
+
+		],
+		"intelephense.environment.includePaths": [
+			"%windir%\\system32\\cmd.exe"
+		],
+		"python.globalModuleInstallation": true,
+		"python.terminal.activateEnvInCurrentTerminal": true,
+		"terminal.integrated.profiles.linux": {
+
+			"bash": {
+				"path": "bash",
+				"icon": "terminal-bash"
+			},
+			"zsh": {
+				"path": "zsh"
+			},
+			"fish": {
+				"path": "fish"
+			},
+			"tmux": {
+				"path": "tmux",
+				"icon": "terminal-tmux"
+			},
+			"pwsh": {
+				"path": "pwsh",
+				"icon": "terminal-powershell"
+			}
+		},
+		"terminal.integrated.profiles.windows": {
+
+			"PowerShell": {
+				"source": "PowerShell",
+				"icon": "terminal-powershell"
+			},
+			"Command Prompt": {
+				"path": [
+					"${env:windir}\\Sysnative\\cmd.exe",
+					"${env:windir}\\System32\\cmd.exe"
+				],
+				"args": [],
+				"icon": "terminal-cmd"
+			},
+			"Git Bash": {
+				"source": "Git Bash"
+			}
+		}
+	}
+}
