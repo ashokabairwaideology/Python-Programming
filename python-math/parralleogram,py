@@ -1,0 +1,5 @@
+b= int(input("enter the base: "))
+h = int(input("enter the height: "))
+
+area = int(b)*int(h)
+print("area:",area)
